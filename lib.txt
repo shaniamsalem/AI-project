@@ -1,0 +1,13 @@
+python version: 3.10.13
+
+xgboost 2.0.3 (https://xgboost.readthedocs.io/en/stable/install.html)
+wordcloud 1.9.3
+pickle (comes pre installed with python 3 https://www.askpython.com/python-modules/install-pickle-python )
+pickledb 0.9.2
+pandas 2.2.2
+numpy 1.26.4
+matplotlib 3.7.5
+seaborn 0.12.2
+string (comes pre installed with python 3 according to this https://stackoverflow.com/questions/49615357/pip-install-string-error )
+nltk 3.2.4
+sklearn 1.2.2(install scikit-learn rather than sklearn via https://scikit-learn.org/stable/install.html#install-by-distribution )
